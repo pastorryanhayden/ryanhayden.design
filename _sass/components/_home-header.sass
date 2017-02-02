@@ -1,0 +1,85 @@
+.header 
+    position: absolute
+    top: 0
+    left: 0 
+    width: 100%
+    min-height: 800px
+
+    video 
+        position: absolute
+        top: 50%
+        left: 50%
+        transform: translate(-50%, -50%)
+        min-width: 100%
+        min-height: 100%
+        width: auto 
+        height: auto 
+        z-index: 1
+
+    .header-content
+        z-index: 2
+        position: relative
+        color: #B7B7B7
+        min-width: 100%
+        min-height: 100%
+
+        .main-nav
+            width: 90%
+            max-width: 1200px
+            margin-left: auto
+            margin-right: auto 
+            display: flex 
+            justify-content: space-between 
+            align-items: center
+            height: 150px
+            margin-bottom: 100px 
+            a.toggle-button
+                color: $main_light_color 
+        .main-cta   
+            max-width: 650px
+            margin-left: auto 
+            margin-right: auto 
+            text-align: center
+            padding-bottom: 50px
+
+            h2 
+                span.first
+                    font-weight: light 
+                    font-size: 30px
+                span.second
+                    font-weight: bold 
+                    font-size: 50px
+                    color: $main_bright_color
+                    text-transform: uppercase
+                span.third
+                    font-weight: light 
+                    font-size: 30px
+                em 
+                    color: $main_bright_color
+            a.button.hollow.large 
+                margin-top: 50px
+                text-transform: uppercase
+                background: transparentize($main_light_color, .8)
+                color: darken($main_bright_color, 5%)
+            .find-out
+                display: flex 
+                justify-content: space-around
+                margin-top: 30px
+                flex-wrap: wrap 
+                a 
+                    font-size: 12px 
+                    text-transform: uppercase
+                    font-weight: light
+                    line-height: 20px  
+                    i 
+                        font-size: 23px
+                        line-height: 20px
+                    span 
+                        font-weight: bold 
+                        font-size: 23px
+
+
+
+
+
+
