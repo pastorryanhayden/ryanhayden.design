@@ -91,8 +91,8 @@ $header-font-style: normal;
 @include motion-ui-animations;
 
 @import "vendors/slideout";  
-@import "vendors/slick";  
-@import "vendors/slick-theme";  
+// @import "vendors/slick"; 
+// @import "vendors/slick-theme"; 
 @import "components/menu";
 @import "components/newsletter";
 @import "components/footer";
@@ -102,3 +102,4 @@ $header-font-style: normal;
 @import "components/question";
 @import "components/find-out";
 @import "components/what-clients-say";
+@import "components/portfolio";

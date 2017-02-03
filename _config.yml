@@ -29,6 +29,11 @@ keep_files:
   - assets/css
   - assets/js
 
+#Collections stuff:
+
+collections:
+  portfolio:
+    output: false
 
 
 

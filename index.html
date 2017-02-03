@@ -67,7 +67,7 @@ extra_scripts:
                 </div><!--/details-->
             </div><!--/person-->
             <p class="quote">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos cupiditate, explicabo aspernatur, esse laudantium incidunt non dolore, magni velit odio veniam hic mollitia rem dolor earum quod nostrum nemo nihil eum. Id quam maxime itaque enim hic culpa qui magni!   
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos cupiditate, explicabo aspernatur, esse laudantium incidunt non dolore!   
             </p><!--/quote-->
         </div><!--/single-testimonal-->
         <div class="single-testimonial">
@@ -79,7 +79,7 @@ extra_scripts:
                 </div><!--/details-->
             </div><!--/person-->
             <p class="quote">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos cupiditate, explicabo aspernatur, esse laudantium incidunt non dolore, magni velit odio veniam hic mollitia rem dolor earum quod nostrum nemo nihil eum. Id quam maxime itaque enim hic culpa qui magni!   
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos cupiditate, explicabo aspernatur, esse laudantium incidunt non dolore!   
             </p><!--/quote-->
         </div><!--/single-testimonal-->
         <div class="single-testimonial">
@@ -91,8 +91,48 @@ extra_scripts:
                 </div><!--/details-->
             </div><!--/person-->
             <p class="quote">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos cupiditate, explicabo aspernatur, esse laudantium incidunt non dolore, magni velit odio veniam hic mollitia rem dolor earum quod nostrum nemo nihil eum. Id quam maxime itaque enim hic culpa qui magni!   
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos cupiditate, explicabo aspernatur, esse laudantium incidunt non dolore!   
             </p><!--/quote-->
         </div><!--/single-testimonal-->
     </div><!--/testimonials-->
 </div><!--/what-clients-say-->
+<div class="recent-work">
+    <h3>Recent Projects I've Worked On:</h3>
+    <div class="portfolio">
+    {% for item in site.portfolio limit: 4 %}
+    <a href="#" class="{{item.name}}"><img src="{{item.thumbnail_image}}" alt=""></a>
+    {% endfor %}
+    </div><!--/portfolio-->
+    
+</div><!--/recent-work-->
+<div class="portfolio-modals">
+ {% for item in site.portfolio limit: 4 %}
+        <div class="modal{{item.name}} hidden modal">
+            <div class="modal-content">
+             <a href="#" class="{{item.name}}modal-toggle modal-toggle"><i class="fa fa-times-circle"></i></a>
+             <div class="modal-header">
+                 <div class="img"><a href="{{item.site_url}}"><img src="{{item.large_image}}" alt="{{item.title}}"></a></div><!--/img-->
+                 <div class="modal-header-text">
+                 <h3>{{item.title}}</h3>
+                 <a href="{{item.site_url}}">{{item.site_url}}</a>
+                 </div><!--/modal-header-text-->
+             </div><!--/modal-header-->
+             <div class="text-content">
+            {{item.content | markdownify }}
+            </div><!--/text-content-->
+            </div><!--/modal-content-->
+        </div><!--/modal{{item.name}}-->
+    {% endfor %}
+    </div><!--/portfolio-modals-->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        {% for item in site.portfolio limit: 4 %}
+        document.querySelector('.{{item.name}}').addEventListener('click', function(){
+                document.querySelector('.modal{{item.name}}').classList.remove('hidden');
+        });
+        document.querySelector('.{{item.name}}modal-toggle').addEventListener('click', function(){
+                document.querySelector('.modal{{item.name}}').classList.add('hidden');
+        });
+        {% endfor %}
+    });
+</script>

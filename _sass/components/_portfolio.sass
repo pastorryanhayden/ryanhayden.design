@@ -1,0 +1,79 @@
+// Styles for the modals
+
+.portfolio-modals 
+    div.hidden.modal  
+        display: none
+    div.modal
+        position: absolute
+        top: 0
+        left: 0
+        min-width: 100%
+        min-height: 100vh
+        z-index: 50
+        background: transparentize($main_dark_color, .3)
+        display: flex 
+        justify-content: center 
+        align-items: center
+        padding: 50px
+        a.modal-toggle
+            color: $main_bright_color
+            position: absolute
+            top: -15px
+            right: -5px
+            font-size: 35px
+
+        .modal-content
+            padding: 50px
+            background: url(/assets/design/crossword.png)
+            position: relative
+            min-width: 400px
+            min-height: 400px
+
+            .modal-header
+                display: flex
+                margin-bottom: 30px
+                .img
+                    width: 50%
+                    margin-right: 30px
+                    
+                    a img 
+                        border: 2px solid $main_bright_color
+                .modal-header-text
+                    h3 
+                        font-size: 30px 
+                        text-transform: uppercase
+                        font-weight: bold 
+                        margin-bottom: 0
+
+
+
+
+// styles for the home page portfolio section
+.recent-work
+    padding: 50px
+    color: $main_light_color
+    background: url(/assets/design/footer_lodyas.png)
+    h3
+        text-align: center
+        text-transform: uppercase
+        font-weight: lighter 
+        color: $main_bright_color
+        font-size: 40px
+        margin-bottom: 50px
+    .portfolio 
+        display: flex 
+        justify-content: space-around
+        flex-wrap: wrap 
+
+        a 
+            width: 150px
+            height: 150px
+            line-height: 150px
+            img 
+                width: 150px
+                height: 150px
+                border: 2px solid $main_bright_color 
+
+
+
+
