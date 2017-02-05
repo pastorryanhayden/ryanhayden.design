@@ -38,11 +38,12 @@ That’s where we come in.  For an affordable one time fee you get:
 
 In other words, you get the main tool that you need to present your ministry well online for the one time fee of $500.    
 
-**GET STARTED TODAY** 
+<a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
 
 
 ----------
-## What Our Clients Are Saying:
+
+### What Our Clients Are Saying:
 
 **Testimonial 1**
 {{}}
@@ -64,7 +65,7 @@ View Website
 
 
 ----------
-## Who We Are:
+## WAbout Me:
 
 I am an Independent Baptist pastor (I serve as the Senior Pastor at Bible Baptist Church in Mattoon, IL) who has a passion for helping missionaries with my skills and knowledge of web development.
 
