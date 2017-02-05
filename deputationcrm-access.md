@@ -18,7 +18,7 @@ The following three short (less than five minute) videos will explain how it wor
 
 ---
 
-#### **I make awesome and affordable websites for missionaries.  Click the logo above to see some examples and to learn more.**
+#### **I make awesome and affordable websites for missionaries.  Click [here learn more](http://ryanhaydenwebsites.com/missionaries.html).**
 
 ---
 
