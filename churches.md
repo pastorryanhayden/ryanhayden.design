@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affordable Websites for Missionaries
+title: Affordable Websites for Churches
 ---
 
 
