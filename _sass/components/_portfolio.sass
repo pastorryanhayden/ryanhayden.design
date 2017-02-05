@@ -19,7 +19,7 @@
             color: $main_bright_color
             position: absolute
             top: -15px
-            right: -5px
+            right: -40px
             font-size: 35px
 
         .modal-content
@@ -28,6 +28,8 @@
             position: relative
             min-width: 400px
             min-height: 400px
+            max-width: 900px
+
 
             .modal-header
                 display: flex
@@ -69,6 +71,9 @@
             width: 150px
             height: 150px
             line-height: 150px
+            margin-bottom: 30px 
+            +breakpoint(medium)
+                margin-bottom: 0
             img 
                 width: 150px
                 height: 150px
