@@ -14,6 +14,8 @@ title: Affordable Websites for Missionaries
 ### The best part - you can afford it!
 
 
+
+
 | **Up Front**                                               | **Month to Month**                                             |
 | ---------------------------------------------------------- | -------------------------------------------------------------- |
 | No Setup Fee                                               | $100 setup fee                                                 |
@@ -24,7 +26,7 @@ title: Affordable Websites for Missionaries
 
 
 
-**GET STARTED TODAY** 
+<a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
 
 **Don’t waste your time and money.** *God has called you to go - but first you have to raise support, and in today’s world, that means you need promotional materials.*  You could do it yourself, but that would require countless hours learning about web design, setting up a host, purchasing a domain name, and you could still get it wrong.  In other words, it could be a waste of your valuable *time*.  Traditional Web firms (if they will work with missionaries and church planters) will charge you thousands for design, which could be a huge waste of *money*.
 
