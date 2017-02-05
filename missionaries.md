@@ -49,16 +49,6 @@ title: Affordable Websites for Missionaries
   </div>
 </div>
 
-
-
-| **Up Front**                                               | **Month to Month**                                             |
-| ---------------------------------------------------------- | -------------------------------------------------------------- |
-| No Setup Fee                                               | $100 setup fee                                                 |
-| Domain Included                                            | Domain included                                                |
-| Hosting For 3 Years ($125 a year for each additional year) | Hosting (month to month - with at least a one year commitment) |
-| Money back gaurentee                                       | Money back Gaurentee                                           |
-| $500 (one time)                                            | $15 per month (plus $100 up front setup fee)                   |
-
 <br>
 <div style="text-align: center;">
 <a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
