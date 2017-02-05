@@ -18,7 +18,7 @@ The following three short (less than five minute) videos will explain how it wor
 
 ---
 
-#### **I make awesome and affordable websites for missionaries.  Get a fully custom website to represent your ministry for as low as $15 a month!  <br>[Click here to learn more](http://ryanhaydenwebsites.com/missionaries.html).**
+#### **I make awesome and affordable websites for missionaries. <br>  Get a fully custom website to represent your ministry for as low as $15 a month!  <br>[Click here to learn more](http://ryanhaydenwebsites.com/missionaries.html).**
 
 ---
 
