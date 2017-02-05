@@ -65,7 +65,7 @@ View Website
 
 
 ----------
-## WAbout Me:
+## About Me:
 
 I am an Independent Baptist pastor (I serve as the Senior Pastor at Bible Baptist Church in Mattoon, IL) who has a passion for helping missionaries with my skills and knowledge of web development.
 
