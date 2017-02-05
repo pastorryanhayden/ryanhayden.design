@@ -32,7 +32,7 @@ title: Affordable Websites for Missionaries
       <li>Money Back Gaurentee</li>
       <li><a class="button" href="#">Buy Now</a></li>
     </ul>
-
+ 
   </div>
   <div class="column medium-4">
 
