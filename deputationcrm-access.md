@@ -24,13 +24,13 @@ The following three short (less than five minute) videos will explain how it wor
 
 ### Overview
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s5KFnfuvxao" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/s5KFnfuvxao" frameborder="0" allowfullscreen></iframe>
 
 ### Setup & Importing Your Data
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3IN8xM_cK3E" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/3IN8xM_cK3E" frameborder="0" allowfullscreen></iframe>
 
 ### Accessing Your Info On A Phone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9bytLbwY1cY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/9bytLbwY1cY" frameborder="0" allowfullscreen></iframe>
 
