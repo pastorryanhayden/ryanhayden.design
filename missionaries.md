@@ -25,8 +25,9 @@ title: Affordable Websites for Missionaries
 | $500 (one time)                                            | $15 per month (plus $100 up front setup fee)                   |
 
 
-
+<div style="text-align: center;">
 <a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
+</div>
 
 **Don’t waste your time and money.** *God has called you to go - but first you have to raise support, and in today’s world, that means you need promotional materials.*  You could do it yourself, but that would require countless hours learning about web design, setting up a host, purchasing a domain name, and you could still get it wrong.  In other words, it could be a waste of your valuable *time*.  Traditional Web firms (if they will work with missionaries and church planters) will charge you thousands for design, which could be a huge waste of *money*.
 
@@ -38,8 +39,9 @@ That’s where we come in.  For an affordable one time fee you get:
 
 In other words, you get the main tool that you need to present your ministry well online for the one time fee of $500.    
 
+<div style="text-align: center;">
 <a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
-
+</div>
 
 ----------
 
@@ -64,9 +66,8 @@ View Website
 
 I am an Independent Baptist pastor (I serve as the Senior Pastor at Bible Baptist Church in Mattoon, IL) who has a passion for helping missionaries with my skills and knowledge of web development.
 
-
+<div style="text-align: center;">
 <a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
-
-----------
+</div>
 
 
