@@ -43,31 +43,4 @@ In other words, you get the main tool that you need to present your ministry wel
 <a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
 </div>
 
-----------
-
-### What Our Clients Are Saying:
-
-> "Great customer support and very easy to use after setup."
-
-Mark Coffey, Missionary
-Project South Africa, Camp Rhino
-View Website
-
-> "When I was having issues with my website and needed help and a redesign, Ryan Hayden provided exactly the help I needed. As a pastor, he knew exactly how to structure our website and communicate to other pastors that would be visiting my website. The design work he does is very sharp and professional. The most important thing is how Ryan goes above and beyond to help you know how to keep the site updated on your own. I highly recommend his services and the price is better than I've found anywhere."
-
-Bryan Ries, Missionary
-Thailand
-View Website
-
-
-
-----------
-## About Me:
-
-I am an Independent Baptist pastor (I serve as the Senior Pastor at Bible Baptist Church in Mattoon, IL) who has a passion for helping missionaries with my skills and knowledge of web development.
-
-<div style="text-align: center;">
-<a class="button" href="http://ryanhaydenwebsites.com/contact.html">GET STARTED TODAY</a> 
-</div>
-
 
