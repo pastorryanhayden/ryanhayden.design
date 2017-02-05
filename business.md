@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Affordable Websites for Missionaries
+title: Websites tailored for your business goals
 ---
 
 
