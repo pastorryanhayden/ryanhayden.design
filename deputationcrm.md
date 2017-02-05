@@ -4,11 +4,13 @@ title: Deputation CRM
 ---
 
 
-End the pain of managing deputation contacts.
+## End the pain of managing deputation contacts.
 
-The easiest way to track your deputation calls and meetings. Yours absolutely free.
+#### The easiest way to track your deputation calls and meetings. Yours absolutely free.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s5KFnfuvxao" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s5KFnfuvxao" frameborder="0" allowfullscreen=""></iframe>
+
+&nbsp;
 
 Imagine…
 
@@ -22,3 +24,5 @@ Imagine all of this being as simple as a spreadsheet but, much, much more powerf
 **And it's my gift to you.**
 
 All you have to do is subscribe to my email list. &nbsp;I will email you access to this simple and powerful system, all I ask from you is that you let me send you occasional emails about how I help missionaries build awesome and affordable websites. &nbsp;
+
+&nbsp;
