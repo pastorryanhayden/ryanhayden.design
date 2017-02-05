@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Deputation CRM
+title: Affordable Websites for Missionaries
 ---
 
 
