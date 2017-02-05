@@ -8,7 +8,7 @@ title: Deputation CRM
 
 #### The easiest way to track your deputation calls and meetings. Yours absolutely free.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/s5KFnfuvxao" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" style="display: block; margin-left: auto; margin-right: auto;" src="https://www.youtube.com/embed/s5KFnfuvxao" frameborder="0" allowfullscreen=""></iframe>
 
 &nbsp;
 
