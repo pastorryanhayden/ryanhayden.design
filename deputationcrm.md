@@ -28,13 +28,6 @@ All you have to do is subscribe to my email list. &nbsp;I will email you access 
 &nbsp;
 
 <!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-<div id="mc_embed_signup">
 <form action="//online.us15.list-manage.com/subscribe/post?u=d273b8ec5bd148b8b5db55c8b&amp;id=6c9b8f1d09" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<label for="mce-EMAIL">Get Your Free Deputation CRM</label>
@@ -44,6 +37,6 @@ All you have to do is subscribe to my email list. &nbsp;I will email you access 
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
-</div>
+
 
 <!--End mc_embed_signup-->
