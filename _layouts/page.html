@@ -6,6 +6,12 @@
       {% include menu.html %}
   </nav>
   <main id="panel">
+      <div class="secondary-header">
+           <div class="main-nav">
+            <a href="{{site.url}}/" class="logo"><img src="/assets/design/logo.png" alt=""></a>
+            <a href="#" class="toggle-button"><i class="fa fa-bars"></i> MENU</a>
+        </div><!--/main-nav-->
+      </div><!--secondary-header-->
           {{ content }}
       {% include footer.html%}
   </main>
