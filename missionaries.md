@@ -4,14 +4,14 @@ title: Affordable Websites for Missionaries
 ---
 
 
-# I create websites for missionaries that help them accomplish their God-given calling.
-I’ll make you a custom website that:
+## I create websites for missionaries that help them accomplish their God-given calling.
+### I’ll make you a custom website that:
 
 - Presents you and your mission well.
 - Helps you get more deputation meetings and ministry donations
 - Is easy to update with monthly updates, photos, etc.
 
-**The best part - you can afford it!** 
+### The best part - you can afford it!
 
 
 | **Up Front**                                               | **Month to Month**                                             |
