@@ -1,3 +1,12 @@
+<div class="recent-work">
+    <h3>Recent Projects I've Worked On:</h3>
+    <div class="portfolio">
+    {% for item in site.portfolio limit: 4 %}
+    <a href="#" class="{{item.name}}"><img src="{{item.thumbnail_image}}" alt=""></a>
+    {% endfor %}
+    </div><!--/portfolio-->
+    
+</div><!--/recent-work-->
 <div class="portfolio-modals">
  {% for item in site.portfolio limit: 4 %}
         <div class="modal{{item.name}} hidden modal">
