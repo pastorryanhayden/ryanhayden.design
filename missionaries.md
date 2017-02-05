@@ -19,6 +19,38 @@ title: Affordable Websites for Missionaries
 <br>
 <br>
 
+<br>
+<div class="row">
+  <div class="column medium-4">
+
+    <ul class="pricing-table no-bullet text-center">
+      <li class="title">Up Front</li>
+      <li class="price">$500</li>
+      <li class="description">No Setup Fee</li>
+      <li>Domain Included</li>
+      <li>Hosting for 3 Years ($124 for each additional year)</li>
+      <li>Money Back Gaurentee</li>
+      <li><a class="button" href="#">Buy Now</a></li>
+    </ul>
+
+  </div>
+  <div class="column medium-4">
+
+    <ul class="pricing-table no-bullet text-center">
+      <li class="title">Up Front</li>
+      <li class="price">$500</li>
+      <li class="description">No Setup Fee</li>
+      <li>Domain Included</li>
+      <li>Hosting for 3 Years ($124 for each additional year)</li>
+      <li>Money Back Gaurentee</li>
+      <li><a class="button" href="#">Buy Now</a></li>
+    </ul>
+
+  </div>
+</div>
+
+
+
 | **Up Front**                                               | **Month to Month**                                             |
 | ---------------------------------------------------------- | -------------------------------------------------------------- |
 | No Setup Fee                                               | $100 setup fee                                                 |
