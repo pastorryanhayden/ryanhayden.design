@@ -70,23 +70,3 @@ I am an Independent Baptist pastor (I serve as the Senior Pastor at Bible Baptis
 ----------
 
 
-## My Work Speaks For Itself
-
-**Check out some of our Recent Projects**
-
-
-
-
-----------
-## Prices
-
-**We want to be one of your biggest helps, not your biggest hurdle.**
-
-
-## For Missionaries
-| **Web Site**                                                            | **Prayer Cards**       | **Table Top Banner** | **Whole Package**    |
-| ----------------------------------------------------------------------- | ---------------------- | -------------------- | -------------------- |
-| Custom designed for your ministry.                                      | Custom design          | Custom Design        |                      |
-| Easy to update with prayer letters, pictures, etc.                      | 5,000 Cards            | Easy to transport.   |                      |
-| Hosting for 3 Years included. ($120 per year for each additional year.) | Full Color both sides. | Stand out.           |                      |
-| $500                                                                    | $400                   | $400                 | **$950** (Save $400) |
