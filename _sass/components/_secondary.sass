@@ -26,8 +26,23 @@
     h2
         text-transform: uppercase
         margin-bottom: 50px
+        font-weight: bold 
+        color: $main_bright_color
+    h3
+        margin-bottom: 30px 
+
+    h4
+        font-weight: bold 
+        font-style: italic
+        margin-bottom: 30px 
     p 
         text-align: justify
+        font-size: 1.2em
+        max-width: 750px
+        margin-left: auto 
+        margin-right: auto
+        margin-bottom: 30px
+
     iframe
         margin-left: auto
         margin-right: auto
@@ -40,4 +55,33 @@
         text-align: center
         width: 80%
         max-width: 450px
+
+    ul 
+        max-width: 400px
+        margin-right: auto 
+        margin-left: auto
+        list-style-type: none 
+        margin-bottom: 30px
+        font-size: 1.2em  
+        li 
+            margin-bottom: 20px
+            padding-left: 50px
+            position: relative 
+            &:before 
+                font-family: 'FontAwesome'
+                content: "\f00c"
+                position: absolute
+                left: 30px
+                top: 0
+                font-size: 25px
+                margin: 0 10px 0 -40px 
+                color: $main_bright_color
+        &.pricing-table
+            li 
+                padding-left: 1.125rem 
+                &:before 
+                    display: none 
+
+
+
         

@@ -3,6 +3,11 @@ layout: page
 title: Deputation CRM
 ---
 
+<div class="missionaryCRM">
+    <h2>Epic Missionary CRM</h2>
+    <p>Yours Absolutely Free</p>
+</div><!--/missionaryCRM-->
+
 
 ## Welcome to the easiest system for managing your deputation contacts.
 

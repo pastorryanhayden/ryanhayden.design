@@ -2,21 +2,17 @@ name: 'Ryan Hayden • Digital Designer'
 logo_image_path: 
 logo2_image_path: 
 main_image: 
-phone: 
-email: 
-facebook: 
-twitter:
-youtube:
-instagram:
-address: 
+phone: '217-499-0822'
+email: 'pastorryanhayden@gmail.com'
+facebook: 'https://www.facebook.com/pastorhayden'
+twitter: 'https://twitter.com/rynhayden'
+youtube: 'https://www.youtube.com/channel/UCx2ifxsWnKICsmo7nchlsbQ'
+instagram: 'https://www.instagram.com/pastorryanhayden/'
+address: '717 S 34th St'
 address2:
-City: 
-State: 
-Zip: 
-mission_board_image: 
-sending_church_image: 
-main_blog_image: 
-main_sermon_image: 
+City: 'Mattoon'
+State: 'IL'
+Zip: '61938'
 default_calendar_image: 
 Google_calendar_id: 
 tinyletter: https://tinyletter.com/pastorryanhayden
