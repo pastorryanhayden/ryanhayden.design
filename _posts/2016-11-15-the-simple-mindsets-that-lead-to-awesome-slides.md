@@ -5,6 +5,7 @@ date: 2016-11-15 00:35:00
 categories:
 featured_image: 'https://cdn-images-1.medium.com/max/800/1*3b0LJuWUasUUnMjdhfgd3A.jpeg'
 summary_markdown: 'The difference between great slides and "meh" slides has much more to do with how you think than software...'
+comments: true
 ---
 
 

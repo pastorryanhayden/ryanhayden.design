@@ -7,6 +7,7 @@ categories:
   - tech
 featured_image:
 author:
+comments: true
 ---
 
 

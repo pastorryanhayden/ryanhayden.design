@@ -78,7 +78,13 @@ body.post
         p
             color: $main_dark_color
             text-align: justify
-
+        img
+            display: block 
+            text-align: center 
+            margin-left: auto
+            margin-right: auto
+            max-width: 80%
+            margin-bottom: 30px 
         .fi
             width: 80%
             position: relative
@@ -123,10 +129,7 @@ body.post.list
         margin-left: auto
         margin-right: auto
         max-width: 1100px
-        display: flex
-        flex-direction: column
-        +breakpoint(medium)
-            flex-direction: row
+        +grid-row
         padding-bottom: 30px
         border-bottom: 2px dashed $main_dark_color
         margin-bottom: 30px
@@ -135,17 +138,21 @@ body.post.list
             margin-bottom: 0
 
         div.featured_image
-            width: 100%
             margin-left: auto
             margin-right: auto
             margin-bottom: 20px
             +breakpoint(medium)
-                width: 384px
+                +grid-column(4)
                 margin-left: 0
-                margin-right: 40px
                 padding-top: 18px
-            img
-                width: 100%
+            +breakpoint(large)
+                +grid-column(3)
+
+        .posttext
+            +breakpoint(medium)
+                +grid-column(7)
+            +breakpoint(large)
+                +grid-column(8) 
         .title
             h1
                 margin-bottom: 0
@@ -224,3 +231,12 @@ body.post.list
             // margin-right: auto
 .allposts
     text-align: center
+
+.post .content-wrapper 
+    img
+        display: block 
+        text-align: center 
+        margin-left: auto
+        margin-right: auto
+        max-width: 80%
+        margin-bottom: 30px 
