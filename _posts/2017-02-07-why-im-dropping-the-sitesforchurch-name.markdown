@@ -31,7 +31,7 @@ On my new site, right on the header I can direct people to different pages for m
 
 ### 3. I'm not wanting to be a startup business
 
-My original plan for sitesfor.church was to be a growing startup business that taught Bible College students to setup and maintain websites.  I through myself into starting a business.  It cost a lot of money (I didn't even break even) and when push came to shove, I was still doing 99% of the work.
+My original plan for sitesfor.church was to be a growing startup business that taught Bible College students to setup and maintain websites.  I threw myself into starting a business.  It cost a lot of money (I didn't even break even) and when push came to shove, I was still doing 99% of the work.
 
 This wasn't the fault of the people I was working with:  It just turns out that training people who are not web designers to design and update websites took a ton of my time and I was never really successful at it.  I'm super grateful to the "site-reps" who gave it a try, and I hope they learned to love web work.
 
