@@ -1,0 +1,42 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  {% include head.html%}
+  <body class="{{page.body_class}}">
+  <nav id="menu">
+      {% include menu.html %}
+  </nav>
+  <main id="panel">
+      <div class="secondary-header">
+           <div class="main-nav">
+            <a href="{{site.url}}/" class="logo"><img src="{{site.url}}/assets/design/logo.png" alt=""></a>
+            <a href="#" class="toggle-button"><i class="fa fa-bars"></i> MENU</a>
+        </div><!--/main-nav-->
+      </div><!--secondary-header-->
+      <div class="church-header">
+                <div class="ipad">
+<img src="{{site.url}}/assets/design/macbook.png" alt="">
+</div><!--/.ipad-->
+<div class="text">
+<h2> I'll help your church get a great church website.</h2>
+<h3> I’ll make your church a custom website that:</h3>
+<ul class="main-bullets">
+<li>Is designed to turn site visitors into church visitors.</li>
+<li>Is easy to update, but doesn't require constant attention.</li>
+<li>Includes everything you expect to find in a church website, including sermons, ministries, church calendar, etc..</li>
+</ul>
+<div class="button-center">
+<a class="button" href="{{site.url}}/contact.html">Get Your Site</a>
+</div><!--/button-center-->
+</div><!--/.text-->
+</div><!--/missions header -->
+      <div class="content-wrapper">
+          {{ content }}
+         </div><!--/content-wrapper -->
+    {% include portfolio.html %}
+    {% include testimonial.html %}
+    {% include aboutme.html %}
+    {% include missionaryCRM.html %}
+      {% include footer.html%}
+  </main>
+  </body>
+</html>
