@@ -33,11 +33,13 @@ On my new site, right on the header I can direct people to different pages for m
 
 My original plan for sitesfor.church was to be a growing startup business that taught Bible College students to setup and maintain websites.  I through myself into starting a business.  It cost a lot of money (I didn't even break even) and when push came to shove, I was still doing 99% of the work.
 
+This wasn't the fault of the people I was working with:  It just turns out that training people who are not web designers to design and update websites took a ton of my time and I was never really successful at it.  I'm super grateful to the "site-reps" who gave it a try, and I hope they learned to love web work.
+
 So, I've decided to continue to offer websites to churches but make no pretensions about it being anything but just me.
 
 ### 4. I want to focus more on custom design
 
-Towards the end of last year, I came to the conclusion that traditional church websites (slider at the top, curated blog list, upcoming events, etc.) didn't serve most churches well and I began working on a new template that could serve as a base for one-off designs.
+Towards the end of last year, I came to the conclusion that traditional church websites (slider at the top, curated blog list, upcoming events, etc.) didn't serve most churches well and I began working on a new template that could serve as a base for more custom designs.
 
 Every website I've made since November (including this one) has been based on this foundation, and I plan on using it almost exclusively going forward.
 
