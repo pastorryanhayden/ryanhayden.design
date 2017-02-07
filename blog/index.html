@@ -43,7 +43,11 @@
   </p>
  </div><!--/title-->
   <div class="content">
+     {% if post.summary_markdown %}
+     {{post.summary_markdown | markdownify}}
+     {% else %}
     {{ post.content | truncatewords: 30 }}
+    {% endif %}
   </div>
   <div class="readbutton">
   <a href="{{post.url}}" class="button">Read More</a>
