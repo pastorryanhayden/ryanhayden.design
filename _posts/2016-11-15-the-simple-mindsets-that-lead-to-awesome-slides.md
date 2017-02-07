@@ -1,19 +1,16 @@
 ---
 layout: post
 title: The Simple Mindsets That Lead to Awesome Slides
-date: '2017-01-10 18:35:14 -0600'
-categories: jekyll update
-featured_image:
+date: 2016-11-15 00:35:00
+categories:
+featured_image: 'https://cdn-images-1.medium.com/max/800/1*3b0LJuWUasUUnMjdhfgd3A.jpeg'
 author:
 ---
 
 
 > You have slides. Now, how do you use them?
->
->
-> &nbsp;
 
-First, you have to understand something:&nbsp;**The vast majority of slides are awful.**
+First, you have to understand something: **The vast majority of slides are awful.**
 
 Straight.
 
@@ -27,8 +24,7 @@ If you have to choose between no slides and bad slides — go no slides ever
 
 Many church slides look something like this
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MjcO2ExtHso" frameborder="0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MjcO2ExtHso" frameborder="0" allowfullscreen=""></iframe>
 
 But slides can be awesome. They can help people understand your preaching, get excited about your upcoming events, etc.. You just have to know how to use them.
 
@@ -58,7 +54,6 @@ As the great powerpoint guru Charles Spurgeon said:
 
 ### 2. Think like a museum curator: create an experience.
 
-
 ![](https://cdn-images-1.medium.com/max/800/1*3b0LJuWUasUUnMjdhfgd3A.jpeg)
 
 I love visiting a good museum. Going to a good museum is an immersive and emotional experience. A museum isn’t a bunch of text — that’s an encyclopedia. It’s not bunch of pictures or artifacts — that’s a warehouse. A museum takes those things and crafts an experience.
@@ -75,7 +70,7 @@ I love visiting a good museum. Going to a good museum is an immersive and emotio
 
 Don’t just put a bunch of words on the screen. That leads to the next point:
 
-3. Think like Michael Moore: refuse to use bullets.
+1. Think like Michael Moore: refuse to use bullets.
 
 ![](https://cdn-images-1.medium.com/max/800/1*ZJ8t2_4iSApFbJp9r5sopQ.jpeg)
 
@@ -95,7 +90,7 @@ You should avoid bullets in real life and you should avoid bullets on your slide
 
 ![](https://cdn-images-1.medium.com/max/800/1*iWeimnFqDrRUImxZ_5QZFQ.png)
 
-In Dan Roam’s fantastic book [“The Back of the Napkin”](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591842697/ref=sr_1_1?ie=UTF8&qid=1479267197&sr=8-1&keywords=back+of+the+napkin) he teaches you how to use very simple pictures to communicate complicated ideas. The most valuable thing in the book is the truth that there really only a few basic kinds of pictures that you can use for illustration:
+In Dan Roam’s fantastic book [“The Back of the Napkin”](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591842697/ref=sr_1_1?ie=UTF8&amp;qid=1479267197&amp;sr=8-1&amp;keywords=back+of+the+napkin) he teaches you how to use very simple pictures to communicate complicated ideas. The most valuable thing in the book is the truth that there really only a few basic kinds of pictures that you can use for illustration:
 
 #### To show who or what — use a portrait.
 
@@ -121,7 +116,7 @@ These don’t have to be complicated. In fact — *the simpler they are the 
 
 In a sermon, don’t just talk about the cat of nine tails — show a picture of it. Don’t just tell people Jacob travelled 500 miles from Hebron to Haran — show them a map that traces his path across what would be today several countries. If you are teaching on eschatology — use a simple timeline. You get the idea.
 
-5. Think like a billboard company: keep it simple.
+1. Think like a billboard company: keep it simple.
 
 ![](https://cdn-images-1.medium.com/max/800/1*yHSspdnzMySaSWx1mtBZWA.png)
 
