@@ -7,6 +7,7 @@ featured_image:
 author:
 ---
 
+
 **Confession: I really want one of the new Macbook Pros** They are so sleek looking and the thought of being able to drive multiple 4k monitors just sounds awesome. But I don’t have $2,500 to spend on a new laptop. *In fact, I don’t have $500 to spend on a new laptop.*
 
 ![](https://cdn-images-1.medium.com/max/800/0*6jVmzeZIrThBVd9m.png)
@@ -30,4 +31,3 @@ I do my writing in [Dropbox Paper](http://dropbox.com/paper), which runs just fi
 I guess what I’m trying to say is you don’t need to have crazy expensive hardware for everything. Sometimes you can get by just fine with something old, something used or something cheap.
 
 *I'd still love that new Macbook Pro though.*
-
