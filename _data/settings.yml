@@ -1,19 +1,19 @@
-name: 'Ryan Hayden • Digital Designer'
-logo_image_path: 
-logo2_image_path: 
-main_image: '/assets/design/missions-background.png'
-main_blog_image: 
-phone: '217-499-0822'
-email: 'pastorryanhayden@gmail.com'
+name: Ryan Hayden • Digital Designer
+logo_image_path:
+logo2_image_path:
+main_image: /assets/design/missions-background.png
+main_blog_image: /uploads/on-point.png
+phone: 217-499-0822
+email: pastorryanhayden@gmail.com
 facebook: 'https://www.facebook.com/pastorhayden'
 twitter: 'https://twitter.com/rynhayden'
 youtube: 'https://www.youtube.com/channel/UCx2ifxsWnKICsmo7nchlsbQ'
 instagram: 'https://www.instagram.com/pastorryanhayden/'
-address: '717 S 34th St'
+address: 717 S 34th St
 address2:
-City: 'Mattoon'
-State: 'IL'
+City: Mattoon
+State: IL
 Zip: '61938'
-default_calendar_image: 
-Google_calendar_id: 
-tinyletter: https://tinyletter.com/pastorryanhayden
+default_calendar_image:
+Google_calendar_id:
+tinyletter: 'https://tinyletter.com/pastorryanhayden'
