@@ -1,6 +1,6 @@
 .newsletter
     height: 270px
-    background: transparent
+    background: url(/assets/design/footer_lodyas.png)
     text-align: center 
     display: flex
     flex-direction: column
@@ -11,25 +11,25 @@
         line-height: 40px
         margin-bottom: 9px
         font-weight: bold
-        color: #594323
+        color: $white
         text-transform: uppercase
     p 
         font-size: 17px
         line-height: 30px
-        color: #594323
+        color: $main_light_color
         max-width: 490px
         margin-bottom: 20px
     .input-group
         width: 370px
         span.input-group-label
-            background: darken($main_light_color, 10%)
-            border: 1px solid $main_light_color
+            background: $main_light_color
+            border: 1px solid $main_dark_color
             i 
-                color: $secondary_bright_color
+                color: $main_dark_color
         [type='email']
             border: none
         .input-group-field
-            background: lighten($main_light_color, 15%)
+            background: $white
             
         .input-group-button
             input.button

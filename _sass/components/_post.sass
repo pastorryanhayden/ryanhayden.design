@@ -1,5 +1,32 @@
+.secondary 
+    .pageheader
+        min-height: 173px
+        padding: 40px
+        display: flex 
+        flex-direction: column
+        justify-content: center
+        h1 
+            color: $white
+            font-size: 50px
+            text-transform: uppercase
+    .breadcrumbbar
+        height: 45px
+        background: url(/assets/design/footer_lodyas.png)
+        width: 100%
+
+        p 
+            line-height: 45px
+            width: 90%
+            max-width: 1200px
+            margin-right: auto
+            margin-left: auto 
+            text-transform: uppercase
+            color: $main_light_color
+            a 
+                color: $main_light_color
+                text-decoration: underline
 body.post
-    background: url(http://sitesforchurch.s3.amazonaws.com/brownpaper-1.png)
+    background: url(/assets/design/crossword.png)
     .header
         height: 280px
         min-height: 280px
@@ -32,6 +59,10 @@ body.post
         margin-right: auto
         min-height: 100vh
         color: $main_dark_color
+        padding: 50px 
+
+        img.featured_image
+            margin-bottom: 50px
 
     div.main-text
         background: transparent
@@ -100,29 +131,38 @@ body.post.list
             border-bottom: none
             margin-bottom: 0
 
-        .featured_image
-            width: 80%
+        div.featured_image
+            width: 100%
             margin-left: auto
             margin-right: auto
             margin-bottom: 20px
             +breakpoint(medium)
                 width: 384px
                 margin-left: 0
-                margin-right: 0
+                margin-right: 40px
+                flex-grow: 2
+                padding-top: 18px
         .title
             h1
                 margin-bottom: 0
                 text-transform: uppercase
                 font-weight: bold
+                text-align: left
             .author
-                border-top: 2px solid $main_dark_color
-                border-bottom: 2px solid $main_dark_color
+                border-top: 2px dotted $main_dark_color
+                border-bottom: 2px dotted $main_dark_color
+                padding-left: 5px
+                padding-top: 5px
+                padding-bottom: 5px
+                font-size: .7em
+                +breakpoint(medium)
+                    font-size: .9em
         .content
             p
                 margin-bottom: 30px
         .readbutton
             text-align: left
-            width: 80%
+            width: 100%
             margin-left: auto
             margin-right: auto
 
@@ -146,7 +186,7 @@ body.post.list
         margin-right: auto
         width: 80%
         max-width: 1200px
-        .featured_image
+        div.featured_image
             width: 80%
             margin-left: auto
             margin-right: auto
@@ -154,7 +194,7 @@ body.post.list
             +breakpoint(medium)
                 width: 512px
                 margin-left: 0
-                margin-right: 40px
+                margin-right: 0px
                 flex-grow: 2
             img
                 border: 2px solid $main_dark_color
