@@ -4,4 +4,6 @@ title: Websites tailored for your business goals
 ---
 
 
-## Content coming soon.
+## I do a limited amount of design and development work for local businesses.
+
+If you are interested in hiring me, I charge $40 an hour for freelancing.  If you want an custom site, I can give you a quote.
