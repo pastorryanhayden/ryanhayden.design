@@ -27,7 +27,6 @@ Have you noticed what I’ve noticed? Every time I go to Walmart, I’m noticing
 * One shorter HDMI cable (Any will do) — approximately $10.
 * A floor mounted outlet box (We use something like this) — approximately $60.
 
-
 So, everything you need is going to cost around $850. Not bad for something you will be using all the time.
 
 ### How it works
@@ -45,7 +44,5 @@ Installing these is a little bit of a chore, but it’s not impossible.
 3. Install the floor box somewhere near the front of your auditorium (we’ve found that underneath the front pew works well.)
 4. Install the wall mounts and the televisions.
 5. Where the two HDMI cables meet, hook them up to the HDMI splitter. Use the third HDMI cable to go from that splitter up through the floor box.
-Y
-ou should now be able to just hook a laptop (or anything else with an HDMI output) to that HDMI cable on the front pew and it will run simultaneously through both screens.
 
-
+You should now be able to just hook a laptop (or anything else with an HDMI output) to that HDMI cable on the front pew and it will run simultaneously through both screens.
