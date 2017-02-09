@@ -17,7 +17,7 @@ In order to use it, you'll need to
 
 2. Click the "COPY BASE" button at the top right of this link.
 
-[https://airtable.com/shrLlJRDcERT0Xgkz](https://airtable.com/shrLlJRDcERT0Xgkz)
+[https://airtable.com/shrkrFPWhA0e3tkMp/tblDWmh2tlPlDBLe7/viwAbkd0hWYwCwxrT](https://airtable.com/shrkrFPWhA0e3tkMp/tblDWmh2tlPlDBLe7/viwAbkd0hWYwCwxrT)
 
 The following three short (less than five minute) videos will explain how it works and how you can set it up:
 

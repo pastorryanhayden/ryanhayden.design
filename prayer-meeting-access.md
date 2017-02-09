@@ -15,7 +15,7 @@ Thanks for signing up.  You now have access to the prayer meeting handout genera
 To get you setup, I'm going to need you to do four things:
 
 * Sign Up for an [Airtable](https://airtable.com/) account if you haven't already.
-* Click on [this link](https://airtable.com/shrnNAqN0LkCPz675/tbl7jiNkZNo50w1ps/viwAfcUCwcSmUkQ4D) and click on the "Copy Base" button on the top right.
+* Click on [this link](https://airtable.com/shrLlJRDcERT0Xgkz/tblegxwgiYKJeMbXF/viwHcrDyPne08A0CQ) and click on the "Copy Base" button on the top right.
 * Send me an email at pastorryanhayden@gmail.com with three pieces of information:
     - Your name and church name.
     - Your **Airtable API Key** - found in your account settings.
