@@ -21,29 +21,25 @@
       
     <div class="missionary">
         <h3>Missionary:</h3>
-        <h4>The Sauder Family</h4>
-        <p class="description">Missionaries in Zambia</p>
+        <h4>{{weekly[0].Missionary}}</h4>
+        <p class="description">{{weekly[0].Missionary_Description}}</p>
     </div><!--/Missionary -->
     <div class="shutins">
         <h3>Shut Ins:</h3>
         <ul>
-            <li>Jerry Hopper</li>
-            <li>Don Taylor</li>
-            <li>Carolyn Rinehart</li>
+            <li v-for="shutin in shutIns">{{shutin.Name}}</li>
         </ul>
 
     </div><!-- /shutins -->
     <div class="ministry">
         <h3>Ministry:</h3>
-        <h4>Revival</h4>
-        <p class="description">Pray that progress would continue to be made because of last week's revival.</p>
+        <h4>{{weekly[0].Featured_Ministry}}</h4>
+        <p class="description">{{weekly[0].Ministry_description}}</p>
     </div><!--/Ministry -->
     <div class="info">
-        <img src="assets/logo_square.png" alt="" width="75px" height="75px">
-        <p>Bible Baptist Church</p>
-        <p>3401 Marion Ave</p>
-        <p>(217) 499-0822</p>
-        <p>pastorhayden@me.com</p>
+        <!-- <img src="{{info[0].Square_logo[0].url}}" alt="" width="75px" height="75px"> -->
+        <p>{{info[0].Church_Name}}</p>
+        <p>{{info[0].Church_Info}}</p> 
     </div><!--/Ministry -->
     
   </div><!--/sidebar  -->
@@ -98,23 +94,19 @@
     <div class="shutins">
         <h3>Shut Ins:</h3>
         <ul>
-            <li>Jerry Hopper</li>
-            <li>Don Taylor</li>
-            <li>Carolyn Rinehart</li>
+            <li v-for="shutin in shutIns">{{shutin.Name}}</li>
         </ul>
 
     </div><!-- /shutins -->
     <div class="ministry">
         <h3>Ministry:</h3>
-        <h4>{{weekly[0].Ministry}}</h4>
-        <p class="description">{{weekly[0].Ministry}}</p>
+        <h4>{{weekly[0].Featured_Ministry}}</h4>
+        <p class="description">{{weekly[0].Ministry_description}}</p>
     </div><!--/Ministry -->
     <div class="info">
-        <img src="assets/logo_square.png" alt="" width="75px" height="75px">
-        <p>Bible Baptist Church</p>
-        <p>3401 Marion Ave</p>
-        <p>(217) 499-0822</p>
-        <p>pastorhayden@me.com</p>
+        <!-- <img src="{{info[0].Square_logo[0].url}}" alt="" width="75px" height="75px"> -->
+        <p>{{info[0].Church_Name}}</p>
+        <p>{{info[0].Church_Info}}</p> 
     </div><!--/Ministry -->
     
   </div><!--/sidebar  -->
@@ -202,12 +194,16 @@ Promise.all([
   getData('Cancer','view=requests'),
   getData('Other','view=requests'),
   getData('Weekly','view=week&maxRecords=1'),
+  getData('Shut-Ins',''),
+  getData('Church_Info','maxRecords=1')
 ]).then(function(allData) {
   console.log('from server', allData);
   const health = allData[0];
   const cancer = allData[1];
   const other = allData[2];
   const week = allData[3];
+  const shutIns = allData[4];
+  const churchInfo = allData[5];
   var app = new Vue({
     el: '#app',
     data: {
@@ -215,7 +211,9 @@ Promise.all([
       needs: health,
       cancers: cancer,
       others: other,
-      weekly: week 
+      weekly: week,
+      shutIns: shutIns,
+      info:  churchInfo
     }
   })
   var app2 = new Vue({
@@ -225,7 +223,9 @@ Promise.all([
       needs: health,
       cancers: cancer,
       others: other,
-      weekly: week  
+      weekly: week,
+      shutIns: shutIns,
+      info:  churchInfo  
     }
   })
 })
