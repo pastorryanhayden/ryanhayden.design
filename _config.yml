@@ -24,10 +24,12 @@ exclude:
   - node_modules
   - gulpfile.js
   - bower_components
+
 keep_files:
   - css
   - assets/css
   - assets/js
+  - handouts
 
 #Collections stuff:
 

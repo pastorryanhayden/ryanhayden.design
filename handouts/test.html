@@ -1,0 +1,244 @@
+
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta name="description" content="Free Prayer Meeting Handout Generator">
+  <meta name="author" content="Ryan Hayden • Digital Designer">
+  <title>Free Prayer Meeting Handout Generator</title>
+  <link rel="stylesheet" type="text/css" href="bulletin.css">
+</head>
+
+  <body >
+        <div class="page" id="app">
+  <div class="header">
+    <h1>Prayer Requests <span>{{date}}</span></h1>
+  </div><!--/header-->
+  <div class="sidebar">
+      
+    <div class="missionary">
+        <h3>Missionary:</h3>
+        <h4>The Sauder Family</h4>
+        <p class="description">Missionaries in Zambia</p>
+    </div><!--/Missionary -->
+    <div class="shutins">
+        <h3>Shut Ins:</h3>
+        <ul>
+            <li>Jerry Hopper</li>
+            <li>Don Taylor</li>
+            <li>Carolyn Rinehart</li>
+        </ul>
+
+    </div><!-- /shutins -->
+    <div class="ministry">
+        <h3>Ministry:</h3>
+        <h4>Revival</h4>
+        <p class="description">Pray that progress would continue to be made because of last week's revival.</p>
+    </div><!--/Ministry -->
+    <div class="info">
+        <img src="assets/logo_square.png" alt="" width="75px" height="75px">
+        <p>Bible Baptist Church</p>
+        <p>3401 Marion Ave</p>
+        <p>(217) 499-0822</p>
+        <p>pastorhayden@me.com</p>
+    </div><!--/Ministry -->
+    
+  </div><!--/sidebar  -->
+  <div class="main">
+      <div class="health-needs">
+        <h2>Health Needs</h2>
+        <div class="text">
+            <ul>
+                
+                <li v-for="need in needs"><span>{{need.Name}}</span> <i v-if="need.Show_description"><br> {{need.Description}}</i></li>
+                
+            </ul>
+        </div><!--text-->
+
+      </div><!-- /health needs -->
+      <div class="cancer">
+        <h2>Cancer</h2>
+        <div class="text">
+            <ul>
+                <ul>
+                    <li v-for="cancer in cancers">{{cancer.Name}}</li>
+                    
+                </ul>
+            </ul>
+        </div><!--text-->
+      </div><!-- /cancer -->
+      <div class="other">
+          <h2>Other</h2>
+          <div class="text">
+              <ul>
+                  
+                  <li v-for="other in others"><span>{{other.Name}}</span><i v-if="other.Show_description"><br> {{other.Description}}</i></li>
+                  
+              </ul>
+          </div><!--text-->
+
+      </div><!-- /other  -->
+  </div><!-- /main -->
+</div><!--/page-->
+
+        <div class="page" id="app2">
+  <div class="header">
+    <h1>Prayer Requests <span>{{date}}</span></h1>
+  </div><!--/header-->
+  <div class="sidebar">
+      
+    <div class="missionary">
+        <h3>Missionary:</h3>
+        <h4>{{weekly[0].Missionary}}</h4>
+        <p class="description">{{weekly[0].Missionary_Description}}</p>
+    </div><!--/Missionary -->
+    <div class="shutins">
+        <h3>Shut Ins:</h3>
+        <ul>
+            <li>Jerry Hopper</li>
+            <li>Don Taylor</li>
+            <li>Carolyn Rinehart</li>
+        </ul>
+
+    </div><!-- /shutins -->
+    <div class="ministry">
+        <h3>Ministry:</h3>
+        <h4>{{weekly[0].Ministry}}</h4>
+        <p class="description">{{weekly[0].Ministry}}</p>
+    </div><!--/Ministry -->
+    <div class="info">
+        <img src="assets/logo_square.png" alt="" width="75px" height="75px">
+        <p>Bible Baptist Church</p>
+        <p>3401 Marion Ave</p>
+        <p>(217) 499-0822</p>
+        <p>pastorhayden@me.com</p>
+    </div><!--/Ministry -->
+    
+  </div><!--/sidebar  -->
+  <div class="main">
+      <div class="health-needs">
+        <h2>Health Needs</h2>
+        <div class="text">
+            <ul>
+                
+                 <li v-for="need in needs"><span>{{need.Name}}</span> <i v-if="need.Show_description"><br> {{need.Description}}</i></li>
+               
+                
+            </ul>
+        </div><!--text-->
+
+      </div><!-- /health needs -->
+      <div class="cancer">
+        <h2>Cancer</h2>
+        <div class="text">
+            <ul>
+                <ul>
+                    
+                     <li v-for="cancer in cancers">{{cancer.Name}}</li>
+                    
+                </ul>
+            </ul>
+        </div><!--text-->
+      </div><!-- /cancer -->
+      <div class="other">
+          <h2>Other</h2>
+          <div class="text">
+              <ul>
+                  
+                   <li v-for="other in others"><span>{{other.Name}}</span><i v-if="other.Show_description"><br> {{other.Description}}</i></li>
+                  
+              </ul>
+          </div><!--text-->
+
+      </div><!-- /other  -->
+  </div><!-- /main -->
+</div><!--/page-->
+    <script src="https://unpkg.com/vue/dist/vue.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.15.3/axios.js"></script>
+    <script>
+        function getParameterByName(name, url) {
+            if (!url) {
+              url = window.location.href;
+            }
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        }
+        
+        
+        var apiKey = 'keyRTLlrVS02vC3Vx';
+        // apiKey = getParameterByName('apiKey');
+        var appID = 'app97CT9gvhCTVfBj';
+        // appID = getParameterByName('appID');
+        var today = new Date();
+        var dd = today.getDate();
+        var mm = today.getMonth()+1;
+        var today = mm+'/'+dd;
+        var other = [];
+      console.log('configs',apiKey, appID);
+      
+function genURL(type, params){
+//https://api.airtable.com/v0/app97CT9gvhCTVfBj/Sickness?&view=requests&api_key=keyRTLlrVS02vC3Vx
+  var url = 'https://api.airtable.com/v0/'+appID+'\/'+type+'?'+params+'&api_key='+apiKey;
+    console.log('fetching ', url);
+  return url;
+}
+
+function getData(type, params){
+  return fetch(genURL(type, params))
+    .then(function(re) {return re.json()})
+    .then(function(re) {console.log(re); return re.records.map(function(values){ return values.fields})})
+    .catch(function(e){console.error(e)});     
+}
+
+Promise.all([
+  getData('Sickness','view=requests'),
+  getData('Cancer','view=requests'),
+  getData('Other','view=requests'),
+  getData('Weekly','view=week&maxRecords=1'),
+]).then(function(allData) {
+  console.log('from server', allData);
+  const health = allData[0];
+  const cancer = allData[1];
+  const other = allData[2];
+  const week = allData[3];
+  var app = new Vue({
+    el: '#app',
+    data: {
+      date: today,
+      needs: health,
+      cancers: cancer,
+      others: other,
+      weekly: week 
+    }
+  })
+  var app2 = new Vue({
+    el: '#app2',
+    data: {
+      date: today,
+      needs: health,
+      cancers: cancer,
+      others: other,
+      weekly: week  
+    }
+  })
+})
+
+        // var app = new Vue({
+        //   el: '#app',
+        //   data: {
+        //     date: today,
+        //     needs: [],
+        //     cancers: cancer,
+        //     others: other   
+        //   }
+        // })
+
+    </script>
+  </body>
