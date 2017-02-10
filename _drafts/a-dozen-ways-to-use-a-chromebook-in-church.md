@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-# Chromebooks are dirt cheap. (I bought one for my daughters for $120 at Christmastime.) They are also rock solid little machines that usually have nice hardware. When you buy a Chromebook, you’ll never have to worry about viruses or malware, and they tend to do a really good job of not slowing down over time. (The Chromebook I’m typing this on has only gotten better over the last year and a half.)
+Chromebooks are dirt cheap. (I bought one for my daughters for $120 at Christmastime.) They are also rock solid little machines that usually have nice hardware. When you buy a Chromebook, you’ll never have to worry about viruses or malware, and they tend to do a really good job of not slowing down over time. (The Chromebook I’m typing this on has only gotten better over the last year and a half.)
 
 I’m a big advocate of Chromebooks and Chromeboxes (basically desktop Chromebooks) for most people. Now, that all new Chromebooks run Android apps out of the box, there is very little you won’t be able to do well on a Chromebook. (Printing is still a problem, but it’s quickly getting better.)
 
