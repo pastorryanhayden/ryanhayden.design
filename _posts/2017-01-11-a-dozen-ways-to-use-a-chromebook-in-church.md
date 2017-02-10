@@ -28,7 +28,7 @@ Rather than a sign up sheet for an event, sometimes we will place a Chromebook o
 
 ## 3. Use it for writing sermon manuscripts.
 
-I do about 90% of my writing on a Chromebook. I currently use [Dropbox Paper](http://paper.dropbox.com), but I’ve used [Google Docs](http://docs.google.com), [Microsoft Office 365](http://microsoft.com/office), [Evernote](http://evernote.com) and various Markdown editors in the past and they all work well. I usually keep two browser windows open, one with my writing and another with [Blue Letter Bible](http://blueletterbible.com)and [Kindle Cloud Reader](http://read.amazon.com).
+I do about 90% of my writing on a Chromebook. I currently use [Dropbox Paper](http://paper.dropbox.com), but I’ve used [Google Docs](http://docs.google.com), [Microsoft Office 365](http://microsoft.com/office), [Evernote](http://evernote.com) and various Markdown editors in the past and they all work well. I usually keep two browser windows open, one with my writing and another with [Blue Letter Bible](http://blueletterbible.com)&nbsp;and [Kindle Cloud Reader](http://read.amazon.com).
 
 ## 4. Use it with a wall mounted TV for cheap digital signage.
 
@@ -67,3 +67,5 @@ I’m a big fan of [Canva](http://canva.com). Even though I have used Adobe prod
 ## 12. Use it with a Budget Spreadsheet to track church finances.
 
 Our church’s financial secretary and treasurer keep track of our budget and expenses using a free spreadsheet from [Free Church Accounting](http://www.freechurchaccounting.com/). It’s not pretty, but it works surprisingly well. We just imported the Excel spreadsheet into google sheets and it allows us to view it at any time and get an up-to-date view of where we are at financially.
+
+Did I miss something? &nbsp;Let me know in the comments.
