@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Dozen Ways To Use A Chromebook In Church
-date: 2017-01-11 00:35:00
+date: 2017-02-10 00:00:00
 categories:
   - tech
 featured_image: /uploads/chromebooks-a-dozen-ways.png
