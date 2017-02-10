@@ -14,7 +14,7 @@ Chromebooks are dirt cheap. (I bought one for my daughters for $120 at Christmas
 
 I’m a big advocate of Chromebooks and Chromeboxes (basically desktop Chromebooks) for most people. Now, that all new Chromebooks run Android apps out of the box, there is very little you won’t be able to do well on a Chromebook. (Printing is still a problem, but it’s quickly getting better.)
 
-I’ve thought of a list of ten ways you can use one of these cheap laptops to enhance your ministry. If you don’t have a computer around the church, or don’t have the budget to invest in something like a Mac or nice Windows computer, you can still do quite a bit with this small investment.
+I’ve thought of a list of dozen ways you can use one of these cheap laptops to enhance your ministry. If you don’t have a computer around the church, or don’t have the budget to invest in something like a Mac or nice Windows computer, you can still do quite a bit with this small investment.
 
 ## 1. Use it for slides for Sunday School or even church
 
