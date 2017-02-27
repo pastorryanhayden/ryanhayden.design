@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Setup A Remote Server for Development
-date: 2017-01-11 00:35:00
+date: 2017-02-27 00:35:00
 categories:
   - web development
   - web design
