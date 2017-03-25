@@ -1,12 +1,13 @@
 ---
 title: Test 7
 layout: slides
-logo_card: green_pastoral
+logo_card:
+  - green_pastoral
 anouncements:
-  - image:
+  - image: /uploads/blue_cross.jpg
     text:
 sermon_cards:
-  - slide_layout: logo
+  - slide_layout:
     background_image:
     text:
 _comments:
