@@ -1,0 +1,12 @@
+/* Webfont: Abside-Regular */@font-face {
+    font-family: 'Abside';
+    src: url('assets/Abside-Regular.eot'); /* IE9 Compat Modes */
+    src: url('assets/Abside-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('assets/Abside-Regular.woff') format('woff'), /* Modern Browsers */
+         url('assets/Abside-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('assets/Abside-Regular.svg#Abside-Regular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+
+}
