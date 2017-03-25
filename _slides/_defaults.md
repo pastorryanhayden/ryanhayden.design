@@ -1,5 +1,6 @@
 ---
 title: Test
+layout: slides
 logo_card: green_pastoral
 anouncements: 
     -
@@ -12,7 +13,9 @@ sermon_cards:
         text: 
 _comments:
     image: "Please choose an image that is 1920x1080px."
-_defaults:
-    layout: slides
+    layout: "This should always be slides, please never change this."
+    logo_card: "Pick the logo card for the day."
+    announcements: "Add the day's announcments."
+
 ---
 
