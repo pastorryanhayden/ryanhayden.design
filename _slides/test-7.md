@@ -8,8 +8,9 @@ anouncements:
     text:
 sermon_cards:
   - slide_layout:
+      - title
     background_image:
-    text:
+    text: '# One Awesome Title With Two Many Words'
 _comments:
   image: Please choose an image that is 1920x1080px.
   layout: 'This should always be slides, please never change this.'
