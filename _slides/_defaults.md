@@ -1,32 +1,16 @@
 ---
-layout: slides
+_layout: slides
 title: Test
 logo_card: green_pastoral
 anouncements: 
     -
         image:
-        text: |
+        text: 
 sermon_cards:
     -
         slide_layout: logo
         background_image: 
-        text: |
-    -
-        slide_layout: announcement
-        background_image: 
-        text: |
-    -
-        slide_layout: logo
-        background_image: 
-        text: |
-    -
-        slide_layout: verse
-        background_image: 
-        text: |
-    -
-        slide_layout: announcement
-        background_image: 
-        text: |
+        text: 
 _comments:
     anouncements: "Please choose an image that is 1920x1080px."
 ---
