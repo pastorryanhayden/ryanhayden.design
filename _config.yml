@@ -42,15 +42,18 @@ collections:
 
 slide_layout:
   - title
-  - announcement
   - sermon_title
   - quote
   - verse
   - outline
   - outline_increment
   - emphasis
-  - logo
   - image
+logo_card:
+  - green_pastoral
+  - blue_cross
+  - orange_mountains
+  - gray_change
 
 
 
