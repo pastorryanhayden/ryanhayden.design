@@ -32,6 +32,16 @@
     {% include logo_slide.html %}
     ---
     {% endif %}
+    {% for card in page.sermon_cards %}
+    class: {{card.slide_layout}}
+    {% if card.background_image %}
+    background-image: url({{card.background_image}})
+    {% endif %}
+
+    {{text}}    
+    ---
+    {% endfor %}
+    {% include logo_slide.html %}
 
     </textarea>
     <script src="https://remarkjs.com/downloads/remark-latest.min.js" type="text/javascript">
