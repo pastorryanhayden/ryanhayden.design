@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Test
-slides:
+slide:
     -
         slide_layout:
         background_image: 
