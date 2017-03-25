@@ -10,7 +10,6 @@ sermon_cards:
     text:
 _comments:
   image: Please choose an image that is 1920x1080px.
-_defaults:
-  layout: slides
+layout: slides
 ---
 
