@@ -38,6 +38,7 @@ collections:
     output: false
   slides:
     output: true
+    _hide_content: true
 
 slide_layout:
   - title
