@@ -36,7 +36,18 @@ keep_files:
 collections:
   portfolio:
     output: false
+  slides:
+    output: true
 
+slide_layout:
+  - title
+  - announcement
+  - sermon_title
+  - quote
+  - verse
+  - outline
+  - outline_increment
+  - emphasis
 
 
 
