@@ -1,0 +1,16 @@
+---
+title: Test 6
+logo_card: green_pastoral
+anouncements:
+  - image:
+    text:
+sermon_cards:
+  - slide_layout: logo
+    background_image:
+    text:
+_comments:
+  image: Please choose an image that is 1920x1080px.
+_defaults:
+  layout: slides
+---
+
