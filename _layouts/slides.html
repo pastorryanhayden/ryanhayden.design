@@ -14,7 +14,7 @@
         font-weight: normal;
       }
       .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
-      .remark-slide-content {
+      .remark-slide-content.logo, .remark-slide-content.announcement  {
         background-size: cover;
       }
     </style>
@@ -26,6 +26,7 @@
     ---
     {% if page.anouncements %}
     {% for card in page.anouncements %}
+    class: announcement
     background-image: url({{card.image}})
 
     {{card.text}}
